@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <hp>
+        <tipe_hp>iphone 8</tipe_hp>
+        <warna>silver</warna>
+        <harga>Rp.9.000.000</harga>
+    </hp>
+    <hp>
+        <tipe_hp>asus x7</tipe_hp>
+        <warna>blue</warna>
+        <harga>Rp.5.000.000</harga>
+    </hp>
+    <hp>
+        <tipe_hp>Nokia 7e</tipe_hp>
+        <warna>silver</warna>
+        <harga>Rp7.000.000</harga>
+        <hp>
+        <tipe_hp>pocco 7y</tipe_hp>
+        <warna>silver</warna>
+        <harga>Rp.6.000.000</harga>
+    </hp>
+    </hp>
+</data>
